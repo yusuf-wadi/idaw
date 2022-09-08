@@ -1,0 +1,194 @@
+{"prompt" : "play subnautica" , "completion" : "play"}
+{"prompt" : "search google" , "completion" : "search"}
+{"prompt" : "search youtube for a video about computational neuroscience" , "completion" : "search" }
+{"prompt" : "search youtube for a video" , "completion" : "search" }
+{"prompt" : "search youtube" , "completion" : "search" }
+{"prompt" : "search for a video about computational neuroscience" , "completion" : "search" }
+{"prompt" : "search for a video" , "completion" : "search" }
+{"prompt" : "search google for a video about computational neuroscience" , "completion" : "search" }
+{"prompt" : "search google for pink dogs" , "completion" : "search" }
+{"prompt" : "search google for the vietnam war" , "completion" : "search" }
+{"prompt" : "search google for julius caeser" , "completion" : "search" }
+{"prompt" : "add to my todo list" , "completion" : "todo"}
+{"prompt" : "add to my calendar" , "completion" : "calendar"}
+{"prompt" : "create a new event" , "completion" : "calendar"}
+{"prompt" : "add to my contacts" , "completion" : "contacts"}
+{"prompt" : "create a new contact" , "completion" : "contacts"}
+{"prompt" : "send a text message" , "completion" : "text"}
+{"prompt" : "send an email" , "completion" : "email"}
+{"prompt" : "open my email" , "completion" : "email"}
+{"prompt" : "open my text messages" , "completion" : "text"}
+{"prompt" : "open my calendar" , "completion" : "calendar"}
+{"prompt" : "open my contacts" , "completion" : "contacts"}
+{"prompt" : "open my todo list" , "completion" : "todo"}
+{"prompt" : "open my settings" , "completion" : "settings"}
+{"prompt" : "open my weather app" , "completion" : "weather"}
+{"prompt" : "open my music app" , "completion" : "music"}
+{"prompt" : "open my maps app" , "completion" : "maps"}
+{"prompt" : "open my camera app" , "completion" : "camera"}
+{"prompt" : "open my clock app" , "completion" : "clock"}
+{"prompt" : "open my calculator app" , "completion" : "calculator"}
+{"prompt" : "open my notes app" , "completion" : "notes"}
+{"prompt" : "open my photos app" , "completion" : "photos"}
+{"prompt" : "open my video app" , "completion" : "video"}
+{"prompt" : "open my web browser" , "completion" : "web"}
+{"prompt" : "open my email app" , "completion" : "email"}
+{"prompt" : "open my social media app" , "completion" : "social"}
+{"prompt" : "open my messaging app" , "completion" : "text"}
+{"prompt" : "play fall guys" , "completion" : "play"}
+{"prompt" : "open google" , "completion" : "open"}
+{"prompt" : "open youtube" , "completion" : "open"}
+{"prompt" : "open netflix" , "completion" : "open"}
+{"prompt" : "open amazon" , "completion" : "open"}
+{"prompt" : "open facebook" , "completion" : "open"}
+{"prompt" : "open instagram" , "completion" : "open"}
+{"prompt" : "open snapchat" , "completion" : "open"}
+{"prompt" : "open twitter" , "completion" : "open"}
+{"prompt" : "open tiktok" , "completion" : "open"}
+{"prompt" : "open whatsapp" , "completion" : "open"}
+{"prompt" : "open pinterest" , "completion" : "open"}
+{"prompt" : "open reddit" , "completion" : "open"}
+{"prompt" : "open spotify" , "completion" : "open"}
+{"prompt" : "open twitch" , "completion" : "open"}
+{"prompt" : "open skype" , "completion" : "open"}
+{"prompt" : "open discord" , "completion" : "open"}
+{"prompt" : "open google hangouts" , "completion" : "open"}
+{"prompt" : "open google meet" , "completion" : "open"}
+{"prompt" : "open google duo" , "completion" : "open"}
+{"prompt" : "open google voice" , "completion" : "open"}
+{"prompt" : "open google allo" , "completion" : "open"}
+{"prompt" : "open google messages" , "completion" : "open"}
+{"prompt" : "open google hangouts chat" , "completion" : "open"}
+{"prompt" : "open google hangouts meet" , "completion" : "open"}
+{"prompt" : "open google hangouts talk" , "completion" : "open"}
+{"prompt" : "open google hangouts voice" , "completion" : "open"}
+{"prompt" : "open google hangouts video" , "completion" : "open"}
+{"prompt" : "open google hangouts meet" , "completion" : "open"}
+{"prompt" : "open google hangouts talk" , "completion" : "open"}
+{"prompt" : "open google hangouts voice" , "completion" : "open"}
+{"prompt" : "open google hangouts video" , "completion" : "open"}
+{"prompt" : "open google hangouts" , "completion" : "open"}
+{"prompt" : "launch fortnite" , "completion" : "play"}
+{"prompt" : "launch apex legends" , "completion" : "play"}
+{"prompt" : "launch call of duty warzone" , "completion" : "play"}
+{"prompt" : "launch minecraft" , "completion" : "play"}
+{"prompt" : "launch roblox" , "completion" : "play"}
+{"prompt" : "launch among us" , "completion" : "play"}
+{"prompt" : "launch rainbow six siege" , "completion" : "play"}
+{"prompt" : "launch rocket league" , "completion" : "play"}
+{"prompt" : "launch counter-strike global offensive" , "completion" : "play"}
+{"prompt" : "launch dota 2" , "completion" : "play"}
+{"prompt" : "launch team fortress 2" , "completion" : "play"}
+{"prompt" : "launch garry's mod" , "completion" : "play"}
+{"prompt" : "launch terraria" , "completion" : "play"}
+{"prompt" : "launch grand theft auto v" , "completion" : "play"}
+{"prompt" : "launch playerunknown's battlegrounds" , "completion" : "play"}
+{"prompt" : "launch apex legends" , "completion" : "play"}
+{"prompt" : "launch call of duty warzone" , "completion" : "play"}
+{"prompt" : "launch minecraft" , "completion" : "play"}
+{"prompt" : "launch roblox" , "completion" : "play"}
+{"prompt" : "launch among us" , "completion" : "play"}
+{"prompt" : "launch rainbow six siege" , "completion" : "play"}
+{"prompt" : "launch rocket league" , "completion" : "play"}
+{"prompt" : "launch counter-strike global offensive" , "completion" : "play"}
+{"prompt" : "launch dota 2" , "completion" : "play"}
+{"prompt" : "launch team fortress 2" , "completion" : "play"}
+{"prompt" : "launch garry's mod" , "completion" : "play"}
+{"prompt" : "launch terraria" , "completion" : "play"}
+{"prompt" : "play subnautica" , "completion" : "play"}
+{"prompt" : "search google for a video about computational neuroscience", "completion" : "search"}
+{"prompt" : "add 'buy milk' to my grocery list", "completion" : "todo"}
+{"prompt" : "create a new event in my calendar for wednesday at 6pm", "completion" :"calendar"}
+{"prompt" : "send an email to info@example.com", "completion" : "email"}
+{"prompt" : "launch fortnite", "completion" :"play"}
+{"prompt" : "open snapchat", "completion" :"open"}
+{"prompt" : "open tiktok", "completion" :"open"}
+{"prompt" : "open whatsapp", "completion" :"open"}
+{"prompt" : "search amazon for 'laptops'", "completion" : "search"}
+{"prompt" : "Hi", "completion" : "greeting"}
+{"prompt" : "How are you", "completion" : "greeting"}
+{"prompt" : "Is anyone there?", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "Good day", "completion" : "greeting"}
+{"prompt" : "Whats up", "completion" : "greeting"}
+{"prompt" : "Hey", "completion" : "greeting"}
+{"prompt" : "greetings", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good morning", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good afternoon", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good evening", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "Good morning", "completion" : "greeting"}
+{"prompt" : "Good afternoon", "completion" : "greeting"}
+{"prompt" : "Good evening", "completion" : "greeting"}
+{"prompt" : "It's nice to meet you", "completion" : "greeting"}
+{"prompt" : "It's a pleasure to meet you", "completion" : "greeting"}
+{"prompt" : "Nice to meet you", "completion" : "greeting"}
+{"prompt" : "Pleased to meet you.", "completion" : "greeting"}
+{"prompt" : "cya", "completion" : "goodbye"}
+{"prompt" : "See you later", "completion" : "goodbye"}
+{"prompt" : "Goodbye", "completion" : "goodbye"}
+{"prompt" : "I am Leaving", "completion" : "goodbye"}
+{"prompt" : "Have a Good day", "completion" : "goodbye"}
+{"prompt" : "bye", "completion" : "goodbye"}
+{"prompt" : "ciao", "completion" : "goodbye"}
+{"prompt" : "see ya", "completion" : "goodbye"}
+{"prompt" : "Goodbye", "completion" : "goodbye"}
+{"prompt" : "Farewell", "completion" : "goodbye"}
+{"prompt" : "So long", "completion" : "goodbye"}
+{"prompt" : "Take care", "completion" : "goodbye"}
+{"prompt" : "add cleaning my room walking the dog and doing my homework to my to do list", "completion" : "todo"}
+{"prompt" : "add to my to do list", "completion" : "todo"}
+{"prompt" : "I want to add to a todo list: groceries, laundry, homework, call mom", "completion" : "todo"}
+{"prompt" : "I want to add to my todo list", "completion" : "todo"}
+{"prompt" : "I want to close Halo Infinite", "completion" : "close"}
+{"prompt" : "close Assassins Creed", "completion" : "close"}
+{"prompt" : "I want to close this game", "completion" : "close"}
+{"prompt" : "close this game", "completion" : "close"}
+{"prompt" : "close this game", "completion" : "close"}
+{"prompt" : "close Subnautica", "completion" : "close"}
+{"prompt" : "close Halo Infinite", "completion" : "close"}
+{"prompt" : "close Assassins Creed", "completion" : "close"}
+{"prompt" : "close subnautica" , "completion" : "close"}
+{"prompt" : "close fall guys" , "completion" : "close"}
+{"prompt" : "close fortnite" , "completion" : "close"}
+{"prompt" : "close apex legends" , "completion" : "close"}
+{"prompt" : "close call of duty warzone" , "completion" : "close"}
+{"prompt" : "close minecraft" , "completion" : "close"}
+{"prompt" : "close roblox" , "completion" : "close"}
+{"prompt" : "close among us" , "completion" : "close"}
+{"prompt" : "close rainbow six siege" , "completion" : "close"}
+{"prompt" : "close rocket league" , "completion" : "close"}
+{"prompt" : "close counter-strike global offensive" , "completion" : "close"}
+{"prompt" : "close dota 2" , "completion" : "close"}
+{"prompt" : "close team fortress 2" , "completion" : "close"}
+{"prompt" : "close garry's mod" , "completion" : "close"}
+{"prompt" : "close terraria" , "completion" : "close"}
+{"prompt" : "close grand theft auto v" , "completion" : "close"}
+{"prompt" : "close closeerunknown's battlegrounds" , "completion" : "close"}
+{"prompt" : "close apex legends" , "completion" : "close"}
+{"prompt" : "close call of duty warzone" , "completion" : "close"}
+{"prompt" : "close minecraft" , "completion" : "close"}
+{"prompt" : "close roblox" , "completion" : "close"}
+{"prompt" : "close among us" , "completion" : "close"}
+{"prompt" : "close rainbow six siege" , "completion" : "close"}
+{"prompt" : "close rocket league" , "completion" : "close"}
+{"prompt" : "close counter-strike global offensive" , "completion" : "close"}
+{"prompt" : "close dota 2" , "completion" : "close"}
+{"prompt" : "close team fortress 2" , "completion" : "close"}
+{"prompt" : "close garry's mod" , "completion" : "close"}
+{"prompt" : "close terraria" , "completion" : "close"}
+{"prompt" : "close subnautica" , "completion" : "close"}
+{"prompt" : "close fortnite", "completion" :"close"}
+{"prompt" : "I want to close Halo Infinite", "completion" : "close"}
+{"prompt" : "close Assassins Creed", "completion" : "close"}
+{"prompt" : "I want to close this game", "completion" : "close"}
+{"prompt" : "close this game", "completion" : "close"}
+{"prompt" : "close this game", "completion" : "close"}
+{"prompt" : "close Subnautica", "completion" : "close"}
+{"prompt" : "close Halo Infinite", "completion" : "close"}
+{"prompt" : "close Assassins Creed", "completion" : "close"}

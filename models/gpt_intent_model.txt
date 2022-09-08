@@ -1,0 +1,1 @@
+intents_model = "curie:ft-valley:intents-v3-2022-09-07-21-13-43"

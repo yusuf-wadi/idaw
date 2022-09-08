@@ -1,0 +1,48 @@
+{"prompt" : "Hi", "completion" : "greeting"}
+{"prompt" : "How are you", "completion" : "greeting"}
+{"prompt" : "Is anyone there?", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "Good day", "completion" : "greeting"}
+{"prompt" : "Whats up", "completion" : "greeting"}
+{"prompt" : "Hey", "completion" : "greeting"}
+{"prompt" : "greetings", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good morning", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good afternoon", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Good evening", "completion" : "greeting"}
+{"prompt" : "how are you?", "completion" : "greeting"}
+{"prompt" : "Hello", "completion" : "greeting"}
+{"prompt" : "Good morning", "completion" : "greeting"}
+{"prompt" : "Good afternoon", "completion" : "greeting"}
+{"prompt" : "Good evening", "completion" : "greeting"}
+{"prompt" : "It's nice to meet you", "completion" : "greeting"}
+{"prompt" : "It's a pleasure to meet you", "completion" : "greeting"}
+{"prompt" : "Nice to meet you", "completion" : "greeting"}
+{"prompt" : "Pleased to meet you.", "completion" : "greeting"}
+{"prompt" : "cya", "completion" : "goodbye"}
+{"prompt" : "See you later", "completion" : "goodbye"}
+{"prompt" : "Goodbye", "completion" : "goodbye"}
+{"prompt" : "I am Leaving", "completion" : "goodbye"}
+{"prompt" : "Have a Good day", "completion" : "goodbye"}
+{"prompt" : "bye", "completion" : "goodbye"}
+{"prompt" : "ciao", "completion" : "goodbye"}
+{"prompt" : "see ya", "completion" : "goodbye"}
+{"prompt" : "Goodbye", "completion" : "goodbye"}
+{"prompt" : "Farewell", "completion" : "goodbye"}
+{"prompt" : "So long", "completion" : "goodbye"}
+{"prompt" : "Take care", "completion" : "goodbye"}
+{"prompt" : "add cleaning my room walking the dog and doing my homework to my to do list", "completion" : "todo"}
+{"prompt" : "add to my to do list", "completion" : "todo"}
+{"prompt" : "I want to add to a todo list: groceries, laundry, homework, call mom", "completion" : "todo"}
+{"prompt" : "I want to add to my todo list", "completion" : "todo"}
+{"prompt" : "I want to play Halo Infinite", "completion" : "play"}
+{"prompt" : "Launch Assassins Creed", "completion" : "play"}
+{"prompt" : "I want to play this game", "completion" : "play"}
+{"prompt" : "Launch this game", "completion" : "play"}
+{"prompt" : "Play this game", "completion" : "play"}
+{"prompt" : "Play Subnautica", "completion" : "play"}
+{"prompt" : "Launch Halo Infinite", "completion" : "play"}
+{"prompt" : "Launch Assassins Creed", "completion" : "play"}

@@ -1,0 +1,25 @@
+{"intents":[
+    {"tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings", "Hello, how are you?","Good morning, how are you?"
+      ,"Good afternoon, how are you?","Good evening, how are you?", "Hello","Good morning","Good afternoon","Good evening","It's nice to meet you","It's a pleasure to meet you","Nice to meet you","Pleased to meet you."],
+      "responses": [],
+      "context_set": ""
+    },
+    {"tag": "goodbye",
+      "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "ciao", "see ya","Goodbye","Farewell","So long","Take care"],
+      "responses": [],
+      "context_set": ""
+    },
+    {"tag": "to do",
+      "patterns": ["add cleaning my room walking the dog and doing my homework to my to do list", "add to my to do list", "I want to add to a todo list: groceries, laundry, homework, call mom", "I want to add to my todo list"],
+      "responses": [],
+      "context_set": ""
+    },
+    {
+      "tag" : "play",
+      "patterns" : ["I want to play Halo Infinite", "Launch Assassins Creed", "I want to play this game", "Launch this game", "Play this game", "Play Subnautica", "Launch Halo Infinite", "Launch Assassins Creed"],
+      "responses" : [],
+      "context_set" : ""
+    }
+  ]
+  }
