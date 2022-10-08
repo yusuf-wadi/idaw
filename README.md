@@ -1,8 +1,8 @@
 # about
 
-A smart virtual assistant powered by GPT.
+Intelligent Digital Assistant Widget.
 
-Request Features.
+Request Features @yusufwadi1@gmail.com
 
 
 
